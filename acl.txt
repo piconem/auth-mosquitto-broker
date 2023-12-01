@@ -1,0 +1,9 @@
+#ADMIN ACL
+user admin
+topic readwrite #
+
+##### USER ACL Rules #####
+
+#ACL For Username test
+user test
+topic iot/user/test/#
